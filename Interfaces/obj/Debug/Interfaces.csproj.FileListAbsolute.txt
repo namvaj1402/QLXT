@@ -1,0 +1,5 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\TTCS QLXT\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\TTCS QLXT\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\TTCS QLXT\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\TTCS QLXT\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\TTCS QLXT\Interfaces\obj\Debug\Interfaces.pdb
